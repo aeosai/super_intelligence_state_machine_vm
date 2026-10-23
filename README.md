@@ -7,6 +7,7 @@ Unlike conventional open-source agent scripts that drown in dependency hell, or 
 * **No `npm install`. No cloud telemetry. No external dependencies.** 
 * Just pure, sovereign, offline computational supremacy running directly inside your browser runtime.
 
+Can run multi parallel in multiple batches either solo, with team, with multiple computers, as to enhance capabilities.
 -------------------------------------------------------------------------------------------------------------
 
 # super_intelligence_state_machine_vm
